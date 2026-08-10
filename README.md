@@ -1,6 +1,6 @@
 # LAB 01 - Navegação no Terminal Linux
 
-Sistemas Operacionais - 2026/1
+Sistemas Operacionais - 2026/2
 
 - **Objetivo**: Familiarizar-se com a navegação e manipulação de arquivos em sistemas UNIX pelo terminal e também praticar o fluxo básico de entrega via Git, que será usado em todos os laboratórios seguintes.
 ---
@@ -58,7 +58,7 @@ Não se preocupe com erros durante a sessão, eles fazem parte do processo e fic
 1. No seu diretório de trabalho (`/workspaces/<nome-do-repositorio>`), crie a seguinte estrutura com **um único comando** (pesquise sobre `mkdir -p`):
 
 ```
-SO2025/
+SO2026/
 ├── laboratorios/
 │   └── lab01/
 ├── projetos/
@@ -74,7 +74,7 @@ SO2025/
    - Um arquivo chamado `ideias.txt` dentro de `projetos/`.
    - Um arquivo chamado `comandos.md` dentro de `anotacoes/`.
 
-4. Volte para `SO2025/` e use o comando `find` com diferentes flags para:
+4. Volte para `SO2026/` e use o comando `find` com diferentes flags para:
    - Listar apenas os diretórios dentro da estrutura.
    - Encontrar apenas os arquivos com extensão `.txt`.
 
