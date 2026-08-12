@@ -4,15 +4,15 @@ Sistemas Operacionais - 2026/2
 
 - **Objetivo**: Familiarizar-se com a navegação e manipulação de arquivos em sistemas UNIX pelo terminal e também praticar o fluxo básico de entrega via Git, que será usado em todos os laboratórios seguintes.
 ---
-## Referências Essenciais
+## Referências Relevantes
 
+- [Livro sobre uso do Git (Foque nos capitulos 1 e 2)](http://git-scm.com/book/pt-br/v2) 
 - [Guia de comandos básicos do Linux (Ubuntu Docs)](https://documentation.ubuntu.com/desktop/en/latest/tutorial/the-linux-command-line-for-beginners/)
 - [UNIX: Uso básico do Shell (Prof. Carlos Maziero)](https://wiki.inf.ufpr.br/maziero/doku.php?id=unix%3Ashell_basico)
 - [UNIX: Comandos em arquivos (Prof. Carlos Maziero)](https://wiki.inf.ufpr.br/maziero/doku.php?id=unix%3Acomandos_basicos)
 
 
 ### Sobre o Codespaces
-
 O terminal do Codespaces funciona como qualquer terminal Linux. A diferença principal é que seu diretório inicial será `/workspaces/<nome-do-repositorio>` em vez do tradicional `/home/<usuario>`. Para os exercícios, considere esse diretório como sua "pasta de trabalho".
 
 ### Gravando sua sessão
@@ -92,12 +92,12 @@ find : busca arquivos e diretorios com base em criterios
 
 ## Entrega
 
-Ao final dos exercícios, você deve ter dois arquivos de entrega dentro de `/workspaces/<nome-do-repositorio>`:
+Ao final dos exercícios, você deve ter uma estrutura de pastas construída, mas os arquivos essenciais para a entrega estarão dentro de `/workspaces/<nome-do-repositorio>`, são eles:
 
 | Arquivo | Descrição |
 |---|---|
 | `LAB1SO_<SEU_RA>.txt` | Gravação da sessão do terminal (gerado pelo `script`) |
-| `SO2025/anotacoes/comandos.md` | Arquivo com a descrição dos comandos (Exercício 3.5) |
+| `SO2026/anotacoes/comandos.md` | Arquivo com a descrição dos comandos (Exercício 3.5) |
 
 Certifique-se de que a gravação foi encerrada (comando `exit` no `script`) antes de prosseguir.
 
@@ -122,3 +122,4 @@ git push
 Para confirmar que a entrega foi realizada, acesse seu repositório no GitHub pelo navegador e verifique se os arquivos aparecem lá.
 
 ---
+Checkpoint: completar e commitar pelo menos os 3 primeiros exercícios
