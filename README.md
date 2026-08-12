@@ -98,6 +98,7 @@ Ao final dos exercícios, você deve ter uma estrutura de pastas construída, ma
 |---|---|
 | `LAB1SO_<SEU_RA>.txt` | Gravação da sessão do terminal (gerado pelo `script`) |
 | `SO2026/anotacoes/comandos.md` | Arquivo com a descrição dos comandos (Exercício 3.5) |
+| `USO_DE_IA.md` | Declaração de uso de IA deve estar preenchida |
 
 Certifique-se de que a gravação foi encerrada (comando `exit` no `script`) antes de prosseguir.
 
@@ -123,3 +124,4 @@ Para confirmar que a entrega foi realizada, acesse seu repositório no GitHub pe
 
 ---
 Checkpoint: completar e commitar pelo menos os 3 primeiros exercícios
+Entrega final: todos os 5 exercícios + declaração de uso de IA
